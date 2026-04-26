@@ -1,1 +1,7 @@
 BT5511 code repository
+Cell viability, RNA and Protein analysis file provides the code used to determine which genes significantly increased or decreased Cell viability, RNA expression or Protein expression levels.
+The Anap7c1 file provides the code used to identify the mutations and types of mutations present in the Anap7c1 gene. 
+The Avon4 file provides the code used to identify the mutations and types of mutations present in the Avon4 gene. 
+The Dsgt9a1 file provides the code used to identify the mutations and types of mutations present in the Dsgt9a1 gene.
+The Ist9a2 file provides the code used to identify the mutations and types of mutations present in the Ist9a2 gene. 
+The Nect1c1 file provides the code used to identify the mutations and types of mutations present in the Nect1c1 gene.
